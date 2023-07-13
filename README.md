@@ -1,1 +1,1 @@
-In progress: Chemical calculator updated version
+<b>In progress:</b> Chemical calculator updated version
