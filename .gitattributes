@@ -1,2 +1,4 @@
 *.cpp linguist-vendored=false
+*.cxx linguist-vendored=false
+*.cc linguist-vendored=false
 *.dart linguist-vendored=true
