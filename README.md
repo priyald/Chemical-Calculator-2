@@ -4,7 +4,9 @@
 <b>Language:</b> Dart (flutter)
 
 <hr><hr><hr>
-# chemical-calculator-1 
+
+# chemical_calculator-1
+
 <h1>readme.md</h1>
 
 Can be used to calculate different chemical formulas after taking user input.
