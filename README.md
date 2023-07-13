@@ -5,9 +5,7 @@
 
 <hr><hr><hr>
 
-# chemical_calculator-1
-
-<h1>readme.md</h1>
+# chemical_calculator-1 readme file
 
 Can be used to calculate different chemical formulas after taking user input.
 
