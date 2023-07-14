@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+//common app bar layout
 class CommonAppBar extends StatefulWidget implements PreferredSizeWidget {
   final String heading;
   final double size;
